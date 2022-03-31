@@ -105,7 +105,7 @@ These sections both need to be running in order for things to work smoothly. It 
 
 Clone the repo
    ```sh
-   git clone https://github.com/rustrose/hints.git
+   git clone https://github.com/Transmetal/HINTS
    ```
 
 ### Frontend
@@ -165,11 +165,6 @@ Running the development mode makes troubleshooting far easier. This is still a w
 * Proper authorization / authentication mechanism for each instance
 * Docker installation
 
-
-See the [open issues](https://github.com/rustrose/HINTS/issues) for a list of proposed features (and known issues).
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -180,40 +175,3 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/rustrose/HINTS](https://github.com/rustrose/HINTS)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Best README Template](https://github.com/othneildrew/Best-README-Template)
-* [Michael Bazzel](https://inteltechniques.com/index.html)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rustrose/HINTS.svg?style=for-the-badge
-[contributors-url]: https://github.com/rustrose/HINTS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rustrose/HINTS.svg?style=for-the-badge
-[forks-url]: https://github.com/rustrose/HINTS/network/members
-[stars-shield]: https://img.shields.io/github/stars/rustrose/HINTS.svg?style=for-the-badge
-[stars-url]: https://github.com/rustrose/HINTS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rustrose/HINTS.svg?style=for-the-badge
-[issues-url]: https://github.com/rustrose/HINTS/issues
-[license-shield]: https://img.shields.io/github/license/rustrose/HINTS.svg?style=for-the-badge
-[license-url]: https://github.com/rustrose/HINTS/blob/master/LICENSE.txt
-[product-screenshot]: images/home.png
