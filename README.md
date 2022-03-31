@@ -8,8 +8,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![HINTS][product-screenshot]](https://github.com/rustrose/HINTS)
-
 HINTS is a CRUD tool for housing information gathered from public OSINT resources on individuals (HUMINT) and organizations (ORGINT)
 
 Now including:
