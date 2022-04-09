@@ -13,7 +13,7 @@
     "react-export-excel": "^0.5.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
-    "uuidv4": "^6.2.6",
+    "uuidv4": "^6.2.12",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
