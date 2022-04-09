@@ -13,7 +13,7 @@
     "knex": "0.21.18",
     "sqlite3": "5.0.0",
     "strapi": "^3.6.1",
-    "strapi-admin": "^3.6.1",
+    "strapi-admin": "^3.6.9",
     "strapi-connector-bookshelf": "^3.6.1",
     "strapi-plugin-content-manager": "^3.6.1",
     "strapi-plugin-content-type-builder": "^3.6.1",
